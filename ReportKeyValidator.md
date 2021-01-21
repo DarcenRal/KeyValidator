@@ -12,9 +12,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-Во время проверки валидных ключей, часть ключей являются невалидными https://github.com/DarcenRal/KeyValidator/issues/1
+* [Во время проверки валидных ключей, часть ключей являются невалидными #1] (https://github.com/DarcenRal/KeyValidator/issues/1)
 
-Во время проверки не валидных ключей часть является валидными https://github.com/DarcenRal/KeyValidator/issues/2
+* [Во время проверки не валидных ключей часть является валидными #2] (https://github.com/DarcenRal/KeyValidator/issues/2)
 
 ## Описание процесса тестирования
 
